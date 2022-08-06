@@ -1,1 +1,0 @@
-// Arithmetic calculator without a frontend
